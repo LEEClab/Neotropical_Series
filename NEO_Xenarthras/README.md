@@ -8,6 +8,6 @@ We already finished data compilation, and now we are writting the manuscript, wh
 
 ##Submission of manuscript scheduled to May 2018
 
-<img align="right" width="250" src="Myrmecophagidae_2018_04_d17.png">
+<img  src="Myrmecophagidae_2018_04_d17.png">
 
 
