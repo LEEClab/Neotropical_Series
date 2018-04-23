@@ -1,6 +1,6 @@
 # <Font color="red">NEOTROPICAL SERIES</font>: Data on the biodiversity within Neotropics
 --------------------------------------------------------
-### ***The NEOTROPICAL SERIES aims to make public Biodiversity data for species occurrence, populantion and community levels that occurs in the Neotropical Region. This initiative is lead by Profs. Mauro Galetti and Milton Ribeiro (UNESP, Rio Claro, São Paulo, Brazil)***
+### ***<img src="nts_v02.jpg" wifth="250">The NEOTROPICAL SERIES aims to make public Biodiversity data for species occurrence, populantion and community levels that occurs in the Neotropical Region***
 <img align="right" width="250" src="ats_v01.jpg">
 Neotropics is the regions that encompass Mexico, Central America, and almost the entire South America. In this datapaper series we aims to compile all sort of biodivesrity data, from invertebrates to vertebrates, plants, and several ecological processes. 
 
