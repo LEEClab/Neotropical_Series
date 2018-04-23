@@ -1,23 +1,17 @@
-# <Font color="red">NEOTROPICAL SERIES</font>: Data on the biodiversity within Neotropics
---------------------------------------------------------
-### ***<img align="right", src="nts_v02.jpg" width="250">The NEOTROPICAL SERIES aims to make public Biodiversity data for species occurrence, populantion and community levels that occurs in the Neotropical Region***
-<img align="right" width="250" src="ats_v01.jpg">
-Neotropics is the regions that encompass Mexico, Central America, and almost the entire South America. In this datapaper series we aims to compile all sort of biodivesrity data, from invertebrates to vertebrates, plants, and several ecological processes. 
+# ATLANTIC AMPHIBIANS
 
-Join us in this Jorney. 
+Mirrored from <https://github.com/mauriciovancine/ATLANTIC-Amphibians>
 
-All data will be available in ECOLOGY repository. This mirror GITHUB repository will maintain updated versions of dataset.
+<img align="right" width="250" src="ats_v02_amphibians1.jpg">ATLANTIC-AMPHIBIANS dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of  Atlantic Forest biome. 
 
-**Mauro Galetti and Milton Cezar Ribeiro**
+Vancine, M. H., K. S. Duarte, Y. S. Souza, J. G. R. Giovanelli, P. M. M. Sobrinho, A. López, R. P. Bovo, F. Maffei, M. B. Lion, J. W. Ribeiro-Júnior, R. Brassaloti, C. Ortiz, H. O. Sawakuchi, J. Bertoluci, L. R. Forti, P. Cacciali, C. F. B. Haddad, and M. C. Ribeiro. ATLANTIC AMPHIBIANS. A Dataset of Amphibian Communities from the Atlantic Forests of South America. 
 
-Coordinators ofthe Atlantic data papers
+The ATLANTIC AMPHIBIANS datapaper was just ACCEPTED  in Ecology
 
-Universidade Estadual Paulista (UNESP)
+<p align="center"> 
+<img src="https://github.com/mauriciovancine/ATLANTIC-Amphibians/blob/master/atlantic_amphibians_map.png" height="600" width="450">
+</p>
 
-Instituto de Biociências, Departamento de Ecologia
+**Figure 1.** Distribution of the study sites in the ATLANTIC AMPHIBIANS dataset. The limit of Atlantic Forest Biome is according Muylaert et al. (in review). 
 
-13506-900 Rio Claro, São Paulo, Brazil
-
-
-
-
+Mirrored from <https://github.com/mauriciovancine/ATLANTIC-Amphibians>
