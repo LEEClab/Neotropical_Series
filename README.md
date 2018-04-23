@@ -1,4 +1,4 @@
-# <Font color="red">NEOTROPICAL SERIES</font>: Data on the biodiversity within Neotropics
+# <span style="color:red">NEOTROPICAL SERIES</span>: Data on the biodiversity within Neotropics
 --------------------------------------------------------
 ### ***<img align="right" width="250" src="nts_v02.jpg">The NEOTROPICAL SERIES aims to make public Biodiversity data for species occurrence, populantion and community levels that occurs in the Neotropical Region***
 <img align="right" width="250" src="ats_v01.jpg">
