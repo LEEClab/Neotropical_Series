@@ -1,8 +1,8 @@
 # <span style="color:red">NEOTROPICAL SERIES</span>: Data on the biodiversity within Neotropics
 --------------------------------------------------------
-### ***<img align="right" width="250" src="nts_v02_invmam1.jpg">NEOTROPICAL INVASIVE MAMMALS: a dataset of occurrence and abundance of invasive mammals in Neotropics***
+### ***<img align="right" width="250" src="nts_v02_invmam1.jpg">NEOTROPICAL ALIEN MAMMALS: a dataset of occurrence and abundance of alien mammals in Neotropics***
 
-In this ongoing datapaper we aims to compite all sort of invasive mammals (exotic or native) which actually occurs in Neotropical region. We already finished the data compiling phase, and now we are consolidating the dataset. 
+In this ongoing datapaper we aims to compite all sort of alien mammals (exotic or native) which actually occurs in Neotropical region. We already finished the data compiling phase, and now we are consolidating the dataset. 
 
 If you have interest on this initiative stay in touch with the Neotropical Invasive Mammals Core Team:
 
